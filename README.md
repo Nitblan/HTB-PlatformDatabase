@@ -69,9 +69,4 @@ This project was created to practice:
 
 A complete explanation of the database design, normalization process, table relationships, indexes, constraints, and analytical views is included in the project documentation.
 
-## Author
-
-**Carlos Santiago Blancas Andrade**
-
-Tecnológico de Monterrey
-International Baccalaureate (IB)
+-- Nitblan :)
