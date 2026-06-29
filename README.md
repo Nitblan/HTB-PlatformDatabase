@@ -9,11 +9,18 @@ This project consists of the design and implementation of a relational database 
 
 The schema follows **Third Normal Form (3NF)** to minimize redundancy while maintaining referential integrity and scalability.
 
-<h2 align="center">Database Schema</h2>
+<h2 align="center">Entity Relationship Diagram</h2>
 
 <p align="center">
-  <img src="assets/SQL1.png" width="45%">
-  <img src="assets/SQL2.png" width="45%">
+  <img src="./assets/SQL1.png" width="95%">
+</p>
+
+<p align="center">
+  <img src="./assets/SQL2.png" width="95%">
+</p>
+
+<p align="center">
+  <img src="./assets/SQL3.png" width="95%">
 </p>
 
 ## Features
