@@ -1,2 +1,77 @@
-# HTB-PlatformDatabase
-Production-ready relational database schema for a cybersecurity learning platform.  3NF normalized design with analytical views, window functions, and strategic indexing.  Built as UNAM Cisco course portfolio project for data infrastructure roles
+
+# HTB Platform Database (UNAM SQL Project)
+
+> Relational database project developed as part of the UNAM Cisco Database course.
+
+## Overview
+
+This project consists of the design and implementation of a relational database inspired by platforms such as **Hack The Box**, where users can solve vulnerable machines, track their progress, and compete through rankings.
+
+The schema follows **Third Normal Form (3NF)** to minimize redundancy while maintaining referential integrity and scalability.
+
+## Features
+
+* 8 normalized relational tables
+* 2 analytical SQL views
+* Primary Keys and Foreign Keys
+* Composite Primary Keys
+* Index optimization
+* Referential integrity constraints
+* Ranking system using SQL Views
+* MySQL / MariaDB compatible
+
+## Database Structure
+
+```
+HTB Platform
+│
+├── Categoria
+├── OS
+├── Dificultad
+├── Usuario
+├── Maquina
+├── Progreso
+├── Intento
+├── Comentario
+│
+├── v_ranking_usuario_global
+└── v_ranking_maquina_dificultad
+```
+
+## Technologies
+
+* SQL
+* MySQL
+* MariaDB
+
+## Repository Structure
+
+```
+.
+├── README.md
+└── schema.sql
+```
+
+## Learning Objectives
+
+This project was created to practice:
+
+* Database normalization (3NF)
+* Relational modeling
+* SQL DDL
+* Foreign Keys
+* Composite Keys
+* Views
+* Indexes
+* Database design principles
+
+## Documentation
+
+A complete explanation of the database design, normalization process, table relationships, indexes, constraints, and analytical views is included in the project documentation.
+
+## Author
+
+**Carlos Santiago Blancas Andrade**
+
+Tecnológico de Monterrey
+International Baccalaureate (IB)
