@@ -12,16 +12,13 @@ The schema follows **Third Normal Form (3NF)** to minimize redundancy while main
 <h2 align="center">Entity Relationship Diagram</h2>
 
 <p align="center">
-  <img src="./assets/SQL1.png" width="95%">
+  <img src="./assets/SQL1.png" width="90%">
 </p>
 
 <p align="center">
-  <img src="./assets/SQL2.png" width="95%">
+  <img src="./assets/SQL2.png" width="90%">
 </p>
 
-<p align="center">
-  <img src="./assets/SQL3.png" width="95%">
-</p>
 
 ## Features
 
