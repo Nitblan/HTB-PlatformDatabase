@@ -16,10 +16,6 @@ The schema follows **Third Normal Form (3NF)** to minimize redundancy while main
   <img src="assets/SQL2.png" width="45%">
 </p>
 
-<p align="center">
-  <img src="assets/SQL3.png" width="60%">
-</p>
-
 ## Features
 
 * 8 normalized relational tables
