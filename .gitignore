@@ -1,0 +1,23 @@
+# Backups
+*.sql.bak
+*.sql.gz
+*.sql.zip
+backup_*.sql
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+.DS_Store
+Thumbs.db
+*.log
+logs/
+credentials.txt
+secrets.txt

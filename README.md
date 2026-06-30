@@ -264,29 +264,24 @@ Attempt indexes: user (audit trail), date (time-range), success (analysis)
 
 ---
 
-## Project Structure
+## Project tree structure
 
 ```
-HTB-PlatformDatabase/
-├── README.md                 Main documentation
-├── ARCHITECTURE.md           Design decisions and rationales
-├── SETUP.md                  Installation guide
-├── REPORT.md                 Academic project report
-├── LICENSE                   MIT License
+HTB-PlatformDatabase
+├── Architecture.md
+├── assets
+│   ├── SQL1.png
+│   └── SQL2.png
+├── docs
+│   ├── E-R_Diagram.png
+│   ├── Report.md
+│   └── Setup.md
 ├── .gitignore
-│
-├── schema.sql                Complete DDL (tables, views, indexes)
-├── QUERIES_EXAMPLES.sql      Common query patterns
-├── APUNTES_OBSIDIAN.md       Spanish notes from Obsidian
-│
-├── tests/
-│   ├── test-views.sql
-│   ├── test-integrity.sql
-│   └── test-performance.sql
-│
-└── assets/
-    ├── SQL1.png              ERD diagram part 1
-    └── SQL2.png              ERD diagram part 2
+├── LICENSE
+├── Queries_examples.sql
+├── README.md
+└── Schema.sql
+
 ```
 
 ---
