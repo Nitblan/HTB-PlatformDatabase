@@ -268,13 +268,14 @@ Attempt indexes: user (audit trail), date (time-range), success (analysis)
 
 ```
 HTB-PlatformDatabase
-├── Architecture.md
 ├── assets
 │   ├── SQL1.png
 │   └── SQL2.png
 ├── docs
+│   ├── Architecture.md
+│   ├── ArchitecturePDF.pdf
 │   ├── E-R_Diagram.png
-│   ├── Report.md
+│   ├── Reporte UNAM DTB.pdf
 │   └── Setup.md
 ├── .gitignore
 ├── LICENSE
